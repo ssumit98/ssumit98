@@ -7,7 +7,18 @@
 - 🔭 I’m currently working on<b> Key Result Area Monitaring App. 🖥</b>
 - 🌱 I’m currently learning<b> ReactJS.</b>
 - 👯 I’m looking to collaborate on my Agriculteral Ttransport Pooling WebApp.
-- 📫 How to reach me: <a href="https://wa.link/ivy8sl"><b>WhatsApp 💬 </a> , <a href="mailto:sumit.sabbinwar@gmail.com">Send E-Mail📨.</b></a></p>
+- 📫 How to reach me:<br> <a href="https://www.linkedin.com/in/sumit-sabbinwar-23b87b175/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a> 
+  
+  <a href="https://wa.link/ivy8sl">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg">
+  </a> 
+  
+  
+  &nbsp; <br>
+  <i class="fas fa-envelope"></i><a href="mailto:sumit.sabbinwar@gmail.com"> Send E-Mail📨.</b></a>
+</p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -43,7 +54,7 @@
        <td width="25%" align="center">
         <span><strong>PHP</strong></span><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-      </td>
+      </td>  
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
