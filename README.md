@@ -10,18 +10,19 @@
 - 🌱 I’m currently learning<b> ReactJS.</b>
 - 👯 I’m looking to collaborate on my Agriculteral Ttransport Pooling WebApp.
 - 📫 How to reach me:<br><br> <a href="https://www.linkedin.com/in/sumit-sabbinwar-23b87b175/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:sumit.sabbinwar@gmail.com">
+    <img src="https://img.shields.io/badge/Sumit Sabbinwar-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
   
   <a href="https://wa.link/ivy8sl">
-    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a> 
   
-
-<a href="mailto:sumit.sabbinwar@gmail.com">
-    <img src="https://img.shields.io/badge/Sumit Sabbinwar-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> 
 </p>
+
+
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
