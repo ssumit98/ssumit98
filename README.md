@@ -14,8 +14,7 @@
   </a> 
   <a href="mailto:sumit.sabbinwar@gmail.com">
     <img src="https://img.shields.io/badge/Sumit Sabbinwar-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> 
-  
+  </a>
   <a href="https://wa.link/ivy8sl">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a> 
