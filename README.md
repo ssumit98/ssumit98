@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on<b> Key Result Area Monitaring App. 🖥</b>
 - 🌱 I’m currently learning<b> ReactJS.</b>
-- 👯 I’m looking to collaborate on my Agriculteral Ttransport Pooling WebApp.
 - 📫 How to reach me:<br><br> <a href="https://www.linkedin.com/in/sumit-sabbinwar-23b87b175/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
