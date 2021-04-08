@@ -83,7 +83,7 @@
 - CISCO : Programing Essentials in Python.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssumit98&layout=compact)](https://github.com/ssumit98/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssumit98&layout=compact&langs_count=8)](https://github.com/ssumit98/)
 
 
 <h3>Thanks for Stopping by!! 😊</h3>
